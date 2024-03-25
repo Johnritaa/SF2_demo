@@ -7,7 +7,7 @@ https://item.taobao.com/item.htm?abbucket=16&id=687953877501&ns=1&spm=a21n57.1.0
 
 or from Amazon.
 
-Platform software is Libero V11.x, Keil(using Jlink programmer) or Softconsole(FLashpro5)
+Platform software is Libero V11.5 SP2, Keil(using Jlink programmer) or Softconsole(FLashpro5)
 
 More tech program, can reach me by johnrita@163.com
 tks.
